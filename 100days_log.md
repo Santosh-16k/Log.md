@@ -8,3 +8,6 @@ Decided to work on multiple projects, during the 100days. First up is logistic r
 
 ## Day 2: July 7, 2018
 Had plenty of time to work on the Logistic regression problem. I explore the dataset using pandas library and I enjoyed the library. I was initially planning for a Tensorflow implementation but I switched to a Keras based implementation due to simplicity. In all got to learn a lot. Completed the problem. Got an accuracy of 0.74641. Not the best but good one to begin with. Next, I plan to work on a linear regression problem. Let's find an interesting dataset to begin.
+
+## Day 3: July 8, 2018
+Explored more of pandas library. Read about Regression using Neural Network. Felt comfortable with Keras but plan on switching to Tensorflow in the long run. Learnt few basics commands of tensorflow.
