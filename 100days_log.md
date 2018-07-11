@@ -11,3 +11,12 @@ Had plenty of time to work on the Logistic regression problem. I explore the dat
 
 ## Day 3: July 8, 2018
 Explored more of pandas library. Read about Regression using Neural Network. Felt comfortable with Keras but plan on switching to Tensorflow in the long run. Learnt few basics commands of tensorflow.
+
+## Day 4: July 9, 2018
+Learnt about Convolutional Neural Network
+
+## Day 5: July 10, 2018
+Explored the mathematics of Neural Style Transfer
+
+## Day 6: July 11, 2018
+Attended Intel's Seminar on Object Classification using Movidius. Learnt a lot about the amazing device. I'll start with Neural Style Transfer, starting tomorrow.
