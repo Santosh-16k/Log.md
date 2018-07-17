@@ -20,3 +20,21 @@ Explored the mathematics of Neural Style Transfer
 
 ## Day 6: July 11, 2018
 Attended Intel's Seminar on Object Classification using Movidius. Learnt a lot about the amazing device. I'll start with Neural Style Transfer, starting tomorrow.
+
+## Day 7: July 12, 2018
+Attended Seminar on Deep Reinforcement Learning. I'll be implementing this some time in the near future.
+
+## Day 8: July 13, 2018
+Went through Inception Model on Coursera. Took time to understand the architecture and its working.
+
+## Day 9: July 14, 2018
+Implemented Neural Style Transfer. Took help from Coursera's homework to implement.[repo](https://github.com/Santosh-16k/Neural-Network)
+
+## Day 10: July 15, 2018
+Was experimenting with Neural Style Transfer. Changed different parameters and was noticing the changes between them.
+
+## Day 11: July 16, 2018
+Read about YOLO algorithm. Planning to implement YOLO using transfer learning.
+
+## Day 12: July 17, 2018
+Have started reading through tensorflow notebooks. Learning more about it to efficiently implement deep learning algorithms.[Source](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
