@@ -56,3 +56,6 @@ Went over tensorflow tutorial on the tensorflow webiste
 
 ## Day 18: July 23, 2018
 Learnt about inception model.
+
+## Day 19: July 24, 2018
+Completed understanding CNN through 2nd tutorial of [Hvass_Labs](https://github.com/Hvass-Labs/TensorFlow-Tutorials). Ran through the execution of Jupyter Notebook.
