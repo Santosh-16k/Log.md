@@ -38,3 +38,21 @@ Read about YOLO algorithm. Planning to implement YOLO using transfer learning.
 
 ## Day 12: July 17, 2018
 Have started reading through tensorflow notebooks. Learning more about it to efficiently implement deep learning algorithms.[Source](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
+
+## Day 13: July 18, 2018
+Bought Amazon's Alexa. So spent time talking to it and then went ahead to explore the dynamics of Alexa. Technically, worked on ML. :P
+
+## Day 14: July 19, 2018
+Learnt about regularization and dropout to reduce overfitting.
+
+## Day 15: July 20, 2018
+Started with learning TensorFlow found an amazing repository from [Hvass_Labs](https://github.com/Hvass-Labs/TensorFlow-Tutorials). Finished the first tutorial to understand tensorflow.
+
+## Day 16: July 21, 2018
+On to second tutorial, I am working on implementing CNN with tensorflow.
+
+## Day 17: July 22, 2018
+Went over tensorflow tutorial on the tensorflow webiste
+
+## Day 18: July 23, 2018
+Learnt about inception model.
