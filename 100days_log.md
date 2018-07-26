@@ -59,3 +59,6 @@ Learnt about inception model.
 
 ## Day 19: July 24, 2018
 Completed understanding CNN through 2nd tutorial of [Hvass_Labs](https://github.com/Hvass-Labs/TensorFlow-Tutorials). Ran through the execution of Jupyter Notebook.
+
+## Day 20: July 25, 2018
+Got access to Intel Movidius. Completed installation and now working on experimentation with running basics codes on Movidius
