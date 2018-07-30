@@ -62,3 +62,18 @@ Completed understanding CNN through 2nd tutorial of [Hvass_Labs](https://github.
 
 ## Day 20: July 25, 2018
 Got access to Intel Movidius. Completed installation and now working on experimentation with running basics codes on Movidius
+
+## Day 21: July 26, 2018
+Worked on getting comfortable with tensorflow.
+
+## Day 22: July 27, 2018
+Learnt using git on command line and got to know features of the same. I wasn't using git until I started #100DaysofMLCode
+
+## Day 23: July 28, 2018
+Learnt about various gradient descent optimizers.
+
+## Day 24: July 29, 2018
+Learnt about techniques used to reduce overfitting.
+
+## Day 25: July 30, 2018
+Found a good reviewed courses on fast.ai. Explored other courses to improve knowledge. Will be working on fast.ai course from tomorrow.
